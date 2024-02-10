@@ -1,1 +1,2 @@
 Prva zmena 
+DRuha zmena 
